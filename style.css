@@ -32,7 +32,7 @@ nav ul{
   }
 nav ul li{
     list-style: none;
-    padding: 0 28px;
+/*     padding: 0 28px; */
     justify-content: center;
 }
  nav ul li a{
@@ -43,6 +43,10 @@ nav ul li{
  nav ul li a:hover{
      color: rgb(255, 182, 47);
  }
+ .fas{
+      color: white;
+      padding: 0 15px;
+  }
 
  .search{
      display: flex;
